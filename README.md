@@ -1,4 +1,4 @@
-إليك نموذج ملف `README.md` لمشروعك **project_svm**:
+ **project_svm**:
 # SVM Classifier Project
 
 This repository contains a project implementing a Support Vector Machine (SVM) classifier. The SVM model is applied to predict outcomes based on a dataset, with a focus on classification accuracy and model evaluation.
